@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Mosestule2003/interactive-card-details-form-main
-- Live Site URL: https://mosestule2003.github.io/interactive-card-details-form-main/
+- Solution URL: https://github.com/Mosestule2003/Base-apparel
+- Live Site URL: https://mosestule2003.github.io/Base-apparel/
 
 ## My process
 
